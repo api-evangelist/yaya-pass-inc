@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/yaya-pass-inc.png
-name: Yaya Pass, Inc.
+name: Yaya Pass
 description: Yaya Pass, Inc. is a company surfaced as a portfolio company of 500-global and added to the
   API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
 url: https://raw.githubusercontent.com/api-evangelist/yaya-pass-inc/refs/heads/main/apis.yml
@@ -46,3 +46,4 @@ maintainers:
 common:
 - type: Website
   url: https://yaya.kz
+x-legal-name: Yaya Pass, Inc.
